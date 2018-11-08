@@ -1,0 +1,14 @@
+amqp==2.3.2
+billiard==3.5.0.4
+celery==4.2.1
+certifi==2018.10.15
+django==2.1.2
+django-cors-headers==2.4.0
+django-tastypie==0.14.2
+idna==2.7
+itypes==1.1.0
+jinja2==2.10
+redis==2.10.6
+requests==2.20.0
+uritemplate==3.0.0
+django-enumchoicefield==1.0.2
